@@ -1,0 +1,22 @@
+{
+    "name": "RemoteDevDjango",
+    "dockerComposeFile": [
+        "../docker-compose.yml",
+    ],
+    "service": "api",
+    "workspaceFolder": "/workspace",
+    "settings": {
+        "terminal.integrated.shell.linux": null
+    },
+    "extensions": [
+        "ms-python.python",
+        "hookyqr.beautify",
+        "alefragnani.bookmarks",
+        "lacroixdavid1.vscode-format-context-menu",
+        "oderwat.indent-rainbow",
+        "ionutvmi.path-autocomplete",
+        "chrmarti.regex",
+        "humao.rest-client",
+        "wayou.vscode-icons-mac"
+    ]
+}
